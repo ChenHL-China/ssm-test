@@ -1,5 +1,3 @@
--- auto Generated on 2018-02-27 09:53:30 
--- DROP TABLE IF EXISTS tb_UserInfo; 
 CREATE TABLE tb_UserInfo(
 	Id INT (11) NOT NULL AUTO_INCREMENT COMMENT 'Id',
 	UserName VARCHAR (50) NOT NULL DEFAULT '' COMMENT 'UserName',
